@@ -44,6 +44,13 @@ $ yarn run start:dev
 # production mode
 $ yarn run start:prod
 ```
+## Seed
+
+```bash
+# Populate DB
+http://localhost:3000/seed
+
+```
 
 ## Test
 
